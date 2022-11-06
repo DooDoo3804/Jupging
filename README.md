@@ -42,13 +42,13 @@
 
 ### :page_with_curl: Final Product
 
-![image-20221106173909290](C:\Users\HOME\Desktop\GIT\Git_Hub\Jupging\assets\image-20221106173909290.png)
+![image-20221106173909290](assets/image-20221106173909290.png)
 
 **Figma 주소** : https://www.figma.com/file/HIKggAW35ePkRGtf6YDfvT/%ED%94%8C%EC%A0%9D?node-id=0%3A1
 
-**최종 계획서(pdf)** : [어째서 표고버섯.pdf](어째서 표고버섯.pdf) 
+**최종 계획서(pdf)** : [어째서 표고버섯.pdf](https://github.com/DooDoo3804/Jupging/blob/master/%EC%96%B4%EC%A7%B8%EC%84%9C%20%ED%91%9C%EA%B3%A0%EB%B2%84%EC%84%AF.pdf) 
 
-**ERD** - ![image-20221106174019045](C:\Users\HOME\Desktop\GIT\Git_Hub\Jupging\assets\image-20221106174019045.png)
+**ERD** - ![image-20221106174019045](assets/image-20221106174019045.png)
 
 #### Current limitations
 
