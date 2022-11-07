@@ -42,7 +42,7 @@
 
 ### :page_with_curl: Final Product
 
-<img src="assets/image-20221106173909290.png" alt="image-20221106173909290" align="center" />
+<p align="center"> <img src="assets/image-20221106173909290.png" alt="image-20221106173909290"/> </p>
 
 **Figma 주소** : https://www.figma.com/file/HIKggAW35ePkRGtf6YDfvT/%ED%94%8C%EC%A0%9D?node-id=0%3A1
 
